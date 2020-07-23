@@ -1,0 +1,6 @@
+.DS_Store
+.idea/
+dist/
+build/
+timsdk.egg-info/
+__pycache__/
